@@ -1,41 +1,11 @@
-<p align="center">
-  <img src="https://github.com/shardeum/.github/raw/dev/shardeum-white-bg.png" alt="Shardeum Logo" width="70%">
-</p>
-
-<p align="center">
-  <strong>An EVM-based autoscaling blockchain platform</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shardeum/shardeum/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
-  <a href="https://discord.com/invite/shardeum"><img src="https://img.shields.io/discord/933959587462254612?logo=discord" alt="Discord"></a>
-  <a href="https://twitter.com/Shardeum"><img src="https://img.shields.io/twitter/follow/Shardeum?style=social" alt="Twitter"></a>
-</p>
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Running the Network Locally](#running-the-network-locally)
-  - [Running the JSON-RPC Server](#running-the-json-rpc-server)
-- [Testing with MetaMask](#testing-with-metamask)
-- [Stopping and Cleaning Up](#stopping-and-cleaning-up)
-- [Health Checks](#health-checks)
-- [Contributing](#contributing)
-- [Community](#community)
-- [License](#license)
-
-## Introduction
-
-Shardeum is an innovative EVM-compliant blockchain platform that leverages dynamic state sharding to achieve unprecedented scalability. By implementing a sharding model, Shardeum ensures faster processing times and lower transaction costs without compromising security or decentralization.
-
-## Features
-
-- **Scalability**: Horizontal scalability through sharding
-- **High Performance**: Low latency and high throughput
+dfvbd 
+2
+3
+6
+54
+7
+8
+9ughput
 - **Security**: Advanced cryptographic techniques and robust consensus protocols
 - **Decentralization**: Truly decentralized network with no single point of failure
 - **Interoperability**: EVM compatibility for existing DApps and smart contracts
